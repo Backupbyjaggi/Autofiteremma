@@ -125,6 +125,7 @@ if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
 else:
+    URL = is_enabled('URL', False)
     if URL.startswith(('https://', 'http://')):
         if not URL.endswith("/"):
             URL += '/'
