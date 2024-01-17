@@ -80,9 +80,9 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/BackupByJaggi')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+TRfy32Cb2ftkZDFl')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/BackupByJaggi')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/BackupByJaggi')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+TRfy32Cb2ftkZDFl')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/BackupByJaggi")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/BackupByJaggi")
 
