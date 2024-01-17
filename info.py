@@ -81,7 +81,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Jaggi_movies')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/BackupByJaggi')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/Jaggi_movies')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/Jaggi_movies')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/Jaggi_movies")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/Jaggi_movies")
